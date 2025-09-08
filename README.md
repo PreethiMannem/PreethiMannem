@@ -35,5 +35,5 @@
 
 ### 📫 **Connect with Me**
 - 📧 Email: [preethimannem@gmail.com](mailto:preethimannem@gmail.com)
-- 💼 LinkedIn: [https://www.linkedin.com/in/preethi-mannem-9a6873224/]
+- 💼 LinkedIn:[Your LinkedIn Profile](https://www.linkedin.com/in/preethi-mannem-9a6873224/)
 - 📄 Resume: [Download My Resume](https://github.com/PreethiMannem/PreethiMannem/raw/main/Esther_Preethi_Mannem_Resume.pdf)
