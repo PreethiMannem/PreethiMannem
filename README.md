@@ -1,24 +1,18 @@
-# 🛍️ Amazon Product Review Sentiment Analysis
+# Hi, I'm Preethi 👋
 
-Analyze Amazon product reviews to predict **sentiment (positive/negative)** using **Python, NLP, and machine learning**.
+🎓 Master's in Computer Science  
+💻 Aspiring Software Engineer (Python / Java)  
+📊 Interested in Data Analysis & Backend Systems  
 
-## Tech Stack
-- **Language:** Python
-- **Libraries:** Pandas, NumPy, Scikit-learn, NLTK, Matplotlib, Seaborn
-- **Tools:** Jupyter Notebook / Google Colab
+## 🚀 Projects
+- 🔹 Sentiment Analysis using Python (Machine Learning)
+- 🔹 App Data Analyzer (Python project for event processing)
 
-## What this does
-- Cleans review text (lowercase, remove punctuation, stopwords)
-- Converts text → numbers (TF-IDF)
-- Trains a classifier (Logistic Regression / Naive Bayes / SVM)
-- Evaluates accuracy and shows confusion matrix
+## 🛠️ Skills
+- Python, Java, JavaScript  
+- Pandas, NumPy, Scikit-learn  
+- HTML, CSS  
+- APIs & Data Processing  
 
-## How to run (once code is added)
-1. Install deps: `pip install -r requirements.txt`
-2. Put the dataset CSV in `data/`
-3. Open the notebook in `notebooks/` and run cells (or run `src/` script)
-
-## Author
-**Esther Preethi Mannem** · [GitHub](https://github.com/PreethiMannem)
-
-
+## 📫 Contact
+- Email: preethimannem@gmail.com
